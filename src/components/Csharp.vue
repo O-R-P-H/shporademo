@@ -1032,6 +1032,8 @@ const basefor3 = 'https://minio.tsukawa.ru/exam/DEMO/DB_test.db'// <-- заме�
 
 <template>
   <div class="cheatsheet">
+    <div>Ссылка на готовый проект</div>
+    <a target="_blank" href="https://minio.tsukawa.ru/browser/exam/Csharp%2F">Проект</a>
 
     <section class="files-section">
       <div class="files-list">
